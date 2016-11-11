@@ -1,5 +1,5 @@
 # Catowser
-Simple web browser based on IE
+Simple web browser based on IE<br />
 User guide:<br />
 1. Dowload executable file from https://yadi.sk/d/osxzWU0QyPfEf <br />
 2. Run it <br />
